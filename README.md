@@ -1,0 +1,1 @@
+Make sure you add an input text field, an insert button, a tree view component, and an image list component inside the tree view. Also, make sure you have a red dot and a white dot image to be added to the collection of imagelist.
